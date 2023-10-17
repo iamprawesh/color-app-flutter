@@ -12,5 +12,5 @@ The Color hex code is fetched from local json file situated in assets\colors.jso
 Here are the screensorts
 
 
-<img src="https://github.com/iamprawesh/color-app-flutter/blob/master/screensots/sc01.jpg?raw=true" alt="Image description" height="600">
-<img src="https://github.com/iamprawesh/color-app-flutter/blob/master/screensots/sc02.jpg?raw=true" alt="Image description" height="600">
+<img src="https://github.com/iamprawesh/color-app-flutter/blob/master/screensots/sc01.jpeg" alt="Image description" height="600">
+<img src="https://github.com/iamprawesh/color-app-flutter/blob/master/screensots/sc02.jpeg" alt="Image description" height="600">
