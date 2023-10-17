@@ -1,16 +1,16 @@
-# color_app
+# Color App - App For displaying all the colors in json File
 
-A new Flutter project.
+Flutter Color App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Color hex code is fetched from local json file situated in assets\colors.json
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are the screensorts
+
+
+<img src="https://github.com/iamprawesh/color-app-flutter/blob/master/screensots/sc01.jpg?raw=true" alt="Image description" height="600">
+<img src="https://github.com/iamprawesh/color-app-flutter/blob/master/screensots/sc02.jpg?raw=true" alt="Image description" height="600">
